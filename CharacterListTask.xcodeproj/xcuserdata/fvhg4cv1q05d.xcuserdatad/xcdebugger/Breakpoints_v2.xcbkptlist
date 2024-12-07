@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A81D5C6-998D-44D3-9149-D790BE4AF703"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82877136-3267-416C-B005-DDA9D4167FC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterListTask/ CharacterList/Presentation/View/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82877136-3267-416C-B005-DDA9D4167FC2 - 33af542dbcfd2cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterListTask.CharacterTableViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "CharacterListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fvhg4cv1q05d/Documents/CharacterListTask/CharacterListTask/%20CharacterList/Presentation/View/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "82877136-3267-416C-B005-DDA9D4167FC2 - 33af542dbcfd2cd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CharacterListTask.CharacterTableViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "CharacterListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fvhg4cv1q05d/Documents/CharacterListTask/CharacterListTask/%20CharacterList/Presentation/View/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "82877136-3267-416C-B005-DDA9D4167FC2 - 3cbdcba31479ec8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (Swift.Bool) -&gt; () in CharacterListTask.CharacterTableViewController.setupBindings() -&gt; ()"
+                  moduleName = "CharacterListTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fvhg4cv1q05d/Documents/CharacterListTask/CharacterListTask/%20CharacterList/Presentation/View/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
